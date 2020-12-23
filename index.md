@@ -1,5 +1,3 @@
-# Education Freedom Program (EduFree)
-
 ## **What is the Education Freedom Program (EduFree)?**
 
 The education freedom program is the idea that students should have the freedom to get the highest quality and most affordable education available to them.
@@ -26,12 +24,20 @@ While doing this I can still benefit from all the advantages my home university,
 
 Replace the above schools and programs with your program and your country. It doesn't matter, the idea is the same. Students should have the freedom to seek the most affordable education for the highest quality price.
 
-## **Why Would Students Want to Do This?**
+## Why Would Students Want to Do This?
 
-1. It's cheaper. Once students can pick and choose between courses offered in all universities
+1. It's cheaper. Once students can pick and choose between courses offered in different universities. Schools will need to offer competitive pricing to attract students.
 
 2. You get better education: No longer are you restricted to only learning from the professors at your university. Perhaps you want to learn about history of Rome but your University only offers history of Greece. Or maybe your school offers both, but there is a better professor at another university. As a student, you should have a right to go to whereer you can get the education you want.
 
+## Why Would Universities Want to Do This?
+
+### The First Universities to implement Education Freedom will have a first mover advantage
+In January 2014, I was facing the most difficult decision of my life. I was picking what university to attend and my final two choices were Queen’s and Western University. Both schools had excellent programs and a great reputation. I’d visited both campuses and they were both beautiful. I could equally see myself having a good experience at both schools. I remember agonzing for weeks over the decision. To say they were evenly tied would be an understatement. The single thing that tipped me towards choosing Western was they had a dual degree Engineering and Business program, with the Ivey Business school. Meanwhile at Queen’s I had to choose between either doing Engineering or Queen’s Commerce (business), but I couldn’t do both. 
+
+I remember thinking to myself, “wow, most students who go to Ivey, probably also considered going to Queen’s. I wonder how many top students chose Ivey because of Queen simply for the single reason that Ivey has the dual degree program?” Imagine, how much money in alumni donations Queen’s has missed out on, simply because of all the smart, driven students that wanted to go to Queen’s but chose not to because they didn’t offer them as much freedom.
+
+The exact same thing will happen with Education Freedom. At first most schools will resist. But then very quickly some very smart schools will offer their students education Freedom and then we’re off to the races. When students are choosing between what schools to attend, just like I did a few years ago, the schools that offer Education Freedom will be at a massive advantage. Students will check to see if their school offers Education Freedom, the same way that students check to see if a potential school offers things like co-op, varsity sports, amenities. It will eventually become a requirement for all schools. The schools who will be last to adapt, will be at a massive disadvantage.
 
 ## What You Can do
 

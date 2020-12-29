@@ -76,3 +76,18 @@ Consider Contributing towards one of these scholarships to help a student with t
     
 
 [Women Creators Scholarship](https://atila.ca/scholarship/atila-women-creators-scholarship-6jkhii4p): Any woman in high school, university or college.
+
+## FAQ
+
+### Won't a free market on courses make university more expensive?
+
+According to economics 101 and supply and demand, a free market on courses, would increase the supply and make courses cheaper. Note that we support a free market on courses with a price cap, this is similar to the current system used in most universities all over the world.
+
+Think of the car industry. As the technology for making cars became more democratized and combined with the rise of free trade, driving a car became more democratized and affordable. Owning a car was no longer limited to the rich and affluent. Middle class people were able to afford a car. Democratizing access to Education freedom would have a smiliar effect. You would see the benefit on both sides: On the low end More low-income students would be able to afford going to university or college and on the high end, the more expensive courses would become more affordable.
+
+
+### Why not just make university free?
+
+We fully support free k-12 education. Free post-secondary education is also ideal, however,  it seems like free post-secondary education is just too divisive of a topic and would face to much pusback. We think that a happy medium that everyone can agree on is just making education more affordable.
+
+Advocating for Education Freedom is not mutually exclusive and does not take away from those who are advocating for free education. We can do both.

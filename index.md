@@ -62,8 +62,6 @@ If you are a student, email the head of your school or faculty’s student counc
 
 Consider Contributing towards one of these scholarships to help a student with their education:
 
-  
-
 1.  [Atila Continuous Learning Scholarship](https://atila.ca/scholarship/atila-continuous-learning-scholarship-j11gu8k5): Any student that is working on a side-project or learning a new skill
     
 2.  [Justice for Indian Farmers Scholarship](https://atila.ca/scholarship/atila-justice-for-indian-farmers-scholarship-sg2nc3h1): A scholarship for any Sikh or Indian heritage student.
@@ -74,8 +72,8 @@ Consider Contributing towards one of these scholarships to help a student with t
     
 5.  [The Olumide and Aramide Scholarship](https://atila.ca/scholarship/the-olumide-and-aramide-ademidun-scholarship-j4m72msw): A scholarship for any student that has overcome adversity
     
+6. [Women Creators Scholarship](https://atila.ca/scholarship/atila-women-creators-scholarship-6jkhii4p): Any woman in high school, university or college.
 
-[Women Creators Scholarship](https://atila.ca/scholarship/atila-women-creators-scholarship-6jkhii4p): Any woman in high school, university or college.
 
 ## FAQ
 
@@ -91,3 +89,7 @@ Think of the car industry. As the technology for making cars became more democra
 We fully support free k-12 education. Free post-secondary education is also ideal. However, it seems like free post-secondary education is just too divisive of a topic and would face too much pusback. We think that a happy medium that everyone can agree on is just making education more affordable.
 
 Advocating for Education Freedom is not mutually exclusive and does not take away from those who are advocating for free education. We can do both.
+
+## Contact Us
+
+If you want to contact us leave a comment on our subreddit, [r/EducationFreedom](https://www.reddit.com/r/EducationFreedom/) or email [Tomiwa](https://tomiwa.ca/) at tomiwa [at symbol] educationfreedomprogram [dot] org

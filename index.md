@@ -1,4 +1,4 @@
-## **What is the Education Freedom Program (EduFree)?**
+## What is the Education Freedom Program (EduFree)?
 
 The education freedom program is the idea that students should have the freedom to get the highest quality and most affordable education available to them.
 
@@ -28,7 +28,7 @@ Replace the above schools and programs with your program and your country. It do
 
 1. It's cheaper. Once students can pick and choose between courses offered in different universities. Schools will need to offer competitive pricing to attract students.
 
-2. You get better education: No longer are you restricted to only learning from the professors at your university. Perhaps you want to learn about history of Rome but your University only offers history of Greece. Or maybe your school offers both, but there is a better professor at another university. As a student, you should have a right to go to whereer you can get the education you want.
+2. You get better education: No longer are you restricted to only learning from the professors at your university. Perhaps you want to learn about history of Rome but your University only offers history of Greece. Or maybe your school offers both, but you prefer the professor at another university. As a student, you should have a right to go to wherever you can get the education you want.
 
 ## Why Would Universities Want to Do This?
 
@@ -44,16 +44,16 @@ The exact same thing will happen with Education Freedom. At first most schools w
 Right now everything I’ve said today is just an idea,It's called the Education Freedom Program, merely because I needed to give it a name beyond just Education Freedom, so it’s easier to search on the internet, but it’s really just an idea. No one owns this idea, but we need to share it as wide and far as possible so we can get more people talking about this. 
 
 
-#### Share this article With Two People (one student and one educator)  
+### Share this article With Two People (one student and one educator)  
   
 
 So here’s all you need to do: Share this article or video with two people: one person who is a student and one person you know who is in the education industry, it can be a professor, an administrator, your student council president, anyone! Also send them the link to  [educationfreedomprogram.org](https://educationfreedomprogram.org/), it has a lot more details that I couldn’t get to in this essay and there’s a subreddit called  [r/EducationFreedom](https://www.reddit.com/r/EducationFreedom/)  we set up for people to discuss the ideas more.
 
-#### If you work in Education, Bring this Up At Your Next Board or Staff Meeting
+### If you work in Education, Bring this Up At Your Next Board or Staff Meeting
 
 If you are in the education industry or work for the government, we need your help. I strongly encourage you to bring up this concept at your next staff or board meeting. If you can’t pass it at the school level, try passing it at the faculty level. If you want me to come and talk to your team about the details of how this could work email me ([tomiwa@educationfreedom.org](mailto:info@educationfreedom.org)).
 
-#### If you’re a Student, ask Student Council to Bring this up at Next Board Meeting
+### If you’re a Student, ask Student Council to Bring this up at Next Board Meeting
 
 If you are a student, email the head of your school or faculty’s student council and make sure it gets added to the agenda of your school’s next board meeting. Post about this on your school’s Facebook, Instagram and Twitter pages. People in student council and student government put great effort into making sure you vote for them and talk about all the great things they will do for students once elected. Tell them that now is the time to act, this is why people voted for them. This is one of the most important things they can do to help students.
 

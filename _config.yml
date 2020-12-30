@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: Education Freedom Program (EduFree)
-description: Give students the freedom to get the most affordable and highest quality education.
 defaults:
   - scope:
       path: ""
     values:
+      title: Education Freedom Program (EduFree)
+      description: Give students the freedom to get the most affordable and highest quality education.
       image: /assets/open-gates-banner.png

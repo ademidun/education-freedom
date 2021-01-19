@@ -16,6 +16,12 @@ More concretely, this means that students should be able to maintain their enrol
 
 - Visit the reddit page to read comments from other people: [r/EducationFreedom](https://www.reddit.com/r/EducationFreedom/)
 
+
+## Watch the Video
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ov-2Q-Mom4A' frameborder='0' allowfullscreen></iframe></div>
+
+
 Consider this example:
 
 I'm currently enrolled as a software engineering student at Western University. I should be able to take a calculus course from University of Alberta, my mathematics course from University of Waterloo and Economics from Carleton University, Linear algebra from Coursera and my Engineering design group project I can take at my home university at Western.

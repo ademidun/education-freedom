@@ -74,7 +74,7 @@ Consider Contributing towards one of these scholarships to help a student with t
     
 3.  [Mojisola and Victoria Scholarship](https://atila.ca/scholarship/mojisola-rufai-and-victoria-ademidun-scholarship-iy1bucly): Any student that comes from a low-income family.
     
-4.  [Black and Indigineous (BIPOC) Scholarship](https://atila.ca/scholarship/atila-black-and-indigenous-people-of-color-bipoc-scholarship-oj0gx3a): A student that is a black or indigineous person of b
+4.  [Black and Indigineous (BIPOC) Scholarship](https://atila.ca/scholarship/atila-black-and-indigenous-people-of-color-bipoc-scholarship-oj0gx3a): A student that is a black or indigineous person of color.
     
 5.  [The Olumide and Aramide Scholarship](https://atila.ca/scholarship/the-olumide-and-aramide-ademidun-scholarship-j4m72msw): A scholarship for any student that has overcome adversity
     
